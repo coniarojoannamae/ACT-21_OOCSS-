@@ -1,0 +1,17 @@
+/* Structure (common layout styles for buttons) */
+.btn {
+    padding: 10px 20px;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  
+  /* Skins (visual appearance variations) */
+  .btn--primary {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .btn--secondary {
+    background-color: #2ecc71;
+    color: white;
+  }
